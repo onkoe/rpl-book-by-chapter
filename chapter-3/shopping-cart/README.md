@@ -16,6 +16,7 @@ The program should:
 - Use a `loop` to allow the user to add or remove items until they are finished
 - Use conditional statements to handle different user inputs
 - Use `structs` and `enums` to represent items and their properties
+    - Note: see [structs-and-enums.md](./structs-and-enums.md) file for more information on these topics. 
 - Use functions to encapsulate common operations such as adding and removing items from the cart, displaying the cart contents, and calculating the total cost of the items in the cart.
 
 ## Deliverables
